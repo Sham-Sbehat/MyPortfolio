@@ -1,4 +1,4 @@
-# 💼 My Portfolio – Sham Subeihat
+# 💼 My Portfolio – Sham Sbehat
 
 Welcome! I'm Sham Sbehat, a Computer Systems Engineer and passionate Frontend Developer.  
 This is my personal portfolio website showcasing my skills, projects, and journey in web development.
